@@ -7,9 +7,13 @@ This Employee review web application is created for employees to submit feedback
 From Admin's panel
 
    1.Add employee
+   
    2.Delete employee
+   
    3.Update employee details
+   
    4.Assign review to employee
+   
    5.Update review of employee
    
 From Employee's panel
@@ -21,21 +25,39 @@ From Employee's panel
 Tech Stack
 
    1.NodeJS
+   
    2.MongoDB
+   
    3.ExpressJS
+   
    4.EJS
+   
    5.Bootstrap
-   6.Libraries:
-   7.bcryptjs
-   8.connect-flash
-   9.connect-mongo
-   10.cookie-parser
-   11.dotenv
-   12.ejs
-   13.express
-   14.express-ejs-layout
-   15.express-session
-   16.mongoose
-   17.passport
-   18.passport-jwt
-   19.passport-local
+   
+Libraries:
+
+   1.bcryptjs
+   
+   2.connect-flash
+   
+   3.connect-mongo
+   
+   4.cookie-parser
+   
+   5.dotenv
+   
+   6.ejs
+   
+   7.express
+   
+   8.express-ejs-layout
+   
+   9.express-session
+   
+   10.mongoose
+   
+   11.passport
+   
+   12.passport-jwt
+   
+   13.passport-local
