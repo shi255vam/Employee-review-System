@@ -15,6 +15,7 @@ From Admin's panel
 From Employee's panel
 
    1.Submit reviews assigned to it
+   
    2.View reviews given by others
    
 Tech Stack
