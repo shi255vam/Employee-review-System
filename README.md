@@ -4,7 +4,8 @@ This Employee review web application is created for employees to submit feedback
 
 (Inside this project)
 
-From Admin's panel
+From Admin's panel:
+
 
    1.Add employee
    
@@ -16,13 +17,17 @@ From Admin's panel
    
    5.Update review of employee
    
-From Employee's panel
+   
+From Employee's panel:
+
 
    1.Submit reviews assigned to it
    
    2.View reviews given by others
    
-Tech Stack
+   
+Tech Stack:
+
 
    1.NodeJS
    
@@ -34,7 +39,9 @@ Tech Stack
    
    5.Bootstrap
    
+   
 Libraries:
+
 
    1.bcryptjs
    
