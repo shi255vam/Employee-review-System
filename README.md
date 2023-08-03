@@ -5,6 +5,7 @@
 (Inside this project)
 
 From Admin's panel
+
    1.Add employee
    2.Delete employee
    3.Update employee details
@@ -12,10 +13,12 @@ From Admin's panel
    5.Update review of employee
    
 From Employee's panel
+
    1.Submit reviews assigned to it
    2.View reviews given by others
    
 Tech Stack
+
    1.NodeJS
    2.MongoDB
    3.ExpressJS
